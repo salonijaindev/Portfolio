@@ -115,8 +115,8 @@
 		<p><br>></p>
 		<div class="content row">
 			<div class="workBx col-lg-4 col-md-4 col-12">
-				<a href="https://handholdingsolution.com/#:~:text=We%20are%20a%20Team%20of,digital%20identity%20in%20the%20market."><img src="images/product4.png" style="padding-top: 50px;">
-				<h4><br><br>HandHolding Solution</h4></a>
+				<a href="https://handholdingsolution.com/#:~:text=We%20are%20a%20Team%20of,digital%20identity%20in%20the%20market."><img src="images/product4.png" style="padding-top: 50px;"></a>
+				<h4><br><br>HandHolding Solution</h4>
 				<h5>Digital Marketing Trainee</h5>
 			</div>
 			<div class="workBx col-lg-4 col-md-4 col-12">
